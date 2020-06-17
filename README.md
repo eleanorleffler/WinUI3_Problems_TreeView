@@ -1,4 +1,4 @@
-# TreeView
+# WinUI3_Problems_TreeView
 
 This repository contains two solutions with sample code demonstrating two TreeViews in both UWP and WinUI3 Desktop.
 The first TreeView contains TreeViewNodes and the second TreeView contains TreeViewNodes and TagTreeViewNodes (derived from TreeViewNode).
