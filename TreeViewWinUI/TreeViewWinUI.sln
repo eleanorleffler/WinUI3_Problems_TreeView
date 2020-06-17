@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.36
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "TreeViewWinUI (Package)", "TreeViewWinUI (Package)\TreeViewWinUI (Package).wapproj", "{6F3A8F7B-2192-4703-A952-D8055F3A7846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeViewWinUI", "TreeViewWinUI\TreeViewWinUI.csproj", "{58C70A8F-1EBF-4F90-9D5A-5A7EE18D0229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F3A8F7B-2192-4703-A952-D8055F3A7846}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6F3A8F7B-2192-4703-A952-D8055F3A7846}.Debug|x64.ActiveCfg = Debug|x64
+		{6F3A8F7B-2192-4703-A952-D8055F3A7846}.Debug|x64.Build.0 = Debug|x64
+		{6F3A8F7B-2192-4703-A952-D8055F3A7846}.Debug|x64.Deploy.0 = Debug|x64
+		{6F3A8F7B-2192-4703-A952-D8055F3A7846}.Debug|x86.ActiveCfg = Debug|x86
+		{6F3A8F7B-2192-4703-A952-D8055F3A7846}.Debug|x86.Build.0 = Debug|x86
+		{6F3A8F7B-2192-4703-A952-D8055F3A7846}.Debug|x86.Deploy.0 = Debug|x86
+		{6F3A8F7B-2192-4703-A952-D8055F3A7846}.Release|Any CPU.ActiveCfg = Release|x86
+		{6F3A8F7B-2192-4703-A952-D8055F3A7846}.Release|x64.ActiveCfg = Release|x64
+		{6F3A8F7B-2192-4703-A952-D8055F3A7846}.Release|x64.Build.0 = Release|x64
+		{6F3A8F7B-2192-4703-A952-D8055F3A7846}.Release|x64.Deploy.0 = Release|x64
+		{6F3A8F7B-2192-4703-A952-D8055F3A7846}.Release|x86.ActiveCfg = Release|x86
+		{6F3A8F7B-2192-4703-A952-D8055F3A7846}.Release|x86.Build.0 = Release|x86
+		{6F3A8F7B-2192-4703-A952-D8055F3A7846}.Release|x86.Deploy.0 = Release|x86
+		{58C70A8F-1EBF-4F90-9D5A-5A7EE18D0229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C70A8F-1EBF-4F90-9D5A-5A7EE18D0229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C70A8F-1EBF-4F90-9D5A-5A7EE18D0229}.Debug|x64.ActiveCfg = Debug|x64
+		{58C70A8F-1EBF-4F90-9D5A-5A7EE18D0229}.Debug|x64.Build.0 = Debug|x64
+		{58C70A8F-1EBF-4F90-9D5A-5A7EE18D0229}.Debug|x86.ActiveCfg = Debug|x86
+		{58C70A8F-1EBF-4F90-9D5A-5A7EE18D0229}.Debug|x86.Build.0 = Debug|x86
+		{58C70A8F-1EBF-4F90-9D5A-5A7EE18D0229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C70A8F-1EBF-4F90-9D5A-5A7EE18D0229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C70A8F-1EBF-4F90-9D5A-5A7EE18D0229}.Release|x64.ActiveCfg = Release|x64
+		{58C70A8F-1EBF-4F90-9D5A-5A7EE18D0229}.Release|x64.Build.0 = Release|x64
+		{58C70A8F-1EBF-4F90-9D5A-5A7EE18D0229}.Release|x86.ActiveCfg = Release|x86
+		{58C70A8F-1EBF-4F90-9D5A-5A7EE18D0229}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {853F8818-3C89-4E5E-975D-7BF0CBAC3B2B}
+	EndGlobalSection
+EndGlobal
